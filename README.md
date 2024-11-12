@@ -1,3 +1,7 @@
 # hotel-management-system
-Hi bye!!! Chimi made change....
-hi my name is jigme
+# Overview
+this is a sample syntax
+## technologies
+-java 
+-spring boot framework
+-java(21)
